@@ -23,7 +23,7 @@
  * **************************************************************
  */
 package examples.yellowPages;
-
+/*sddsdf dfsf sdf sdf sdf sdf sd*/
 import jade.core.Agent;
 import jade.core.AID;
 import jade.domain.DFService;
